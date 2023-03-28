@@ -1,3 +1,5 @@
+#!/usr/bin/python 
+
 #Reduce 1
 #Outputs the 4 zone centroids
 
