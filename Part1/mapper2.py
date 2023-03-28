@@ -1,4 +1,7 @@
 #Map 2
+#!/usr/bin/env python
+# coding: utf-8
+#!/usr/bin/python3
 
 from operator import itemgetter
 import sys
