@@ -1,3 +1,5 @@
+#!/usr/bin/python 
+
 #Reducer 2, to be used in getting only zones for desired players based on hit rate
 
 from operator import itemgetter
