@@ -1,8 +1,6 @@
-#Reduce 1
-#!/usr/bin/env python
-# coding: utf-8
-#!/usr/bin/python3
+#!/usr/bin/python
 
+#Reduce 1
 from operator import itemgetter
 import sys
 
